@@ -1,0 +1,4 @@
+# ninja log v5
+6	4828	7356653020110176	D:/MyCodes/DINO/models/dino/ops/build/temp.win-amd64-cpython-38/Release/MyCodes/DINO/models/dino/ops/src/cpu/ms_deform_attn_cpu.obj	992319fff335e14e
+13	10879	7356653080569466	D:/MyCodes/DINO/models/dino/ops/build/temp.win-amd64-cpython-38/Release/MyCodes/DINO/models/dino/ops/src/vision.obj	672cfa9738d4db0b
+11	16540	7356653136952831	D:/MyCodes/DINO/models/dino/ops/build/temp.win-amd64-cpython-38/Release/MyCodes/DINO/models/dino/ops/src/cuda/ms_deform_attn_cuda.obj	332b4103b9555796
